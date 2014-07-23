@@ -29,7 +29,7 @@ Die Google-Push-Notifikation-ID wird benötigt, damit Sie die Simlar-Message-Pus
 
 4. Mitwirkungsklausel und Absturzbenachrichtigung
 Bei Abstürzen oder Programmfehlern gibt es die Möglichkeit innerhalb der App freiwillig und ausdrücklich einer Übermittlung in Form einer Absturzbenachrichtigung zuzustimmen. Es können dabei, neben dem Grund des Systemfehlers, auch persönliche Daten übermittelt werden (aktueller Zustand der App zum Zeitpunkt des Absturzes und die letzten Log-Meldungen).
-Die Übermittlung erfolgt direkt und verschlüsselt auf die Simlar-Server. Durch diese freiwillige Unterstützung können Sie uns helfen, die App weiter zu entwickeln, indem Sie uns die Gelegenheit zur Auswertung der Fehler geben.
+Die Übermittlung erfolgt verschlüsselt auf die Simlar-Server. Durch diese freiwillige Unterstützung können Sie uns helfen, die App weiter zu entwickeln, indem Sie uns die Gelegenheit zur Auswertung der Fehler geben.
 
 5. Allgemeine Vorschriften
 Im Übrigen gelten die Bestimmungen des deutschen Datenschutzgesetzes (BDSG) und die gängigen Verordnungen und Regelungen der Bundesrepublik Deutschland – http://dejure.org/gesetze/BDSG
