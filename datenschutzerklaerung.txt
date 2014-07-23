@@ -1,0 +1,39 @@
+Simlar steht für den bestmöglichen Schutz Ihrer Kommunikation. Das gilt natürlich ebenfalls für den Schutz Ihrer Daten. Es werden nur die notwendigsten Informationen für die volle Funktionalität der App gespeichert. Dies geschieht auch nur für die Dauer der Brauchbarkeit der funktionsabhängigen Informationen. Die Kommunikation mit den Simlar-Servern läuft grundsätzlich verschlüsselt und ist daher vor unbefugten Zugriffen geschützt
+In dieser Datenschutzerklärung sind die Punkte zu Ihren Informationen zusammengefasst.
+
+1. Ihre verschlüsselten Gespräche
+Simlar gewährleistet die bestmögliche Verschlüsselung des gesprochenen Wortes (Sprachanrufe) über die Simlar-App. Diese ist nach dem aktuellen technischen Standard und nach unserem Kenntnisstand ein abhörsicheres und verschlüsseltes System.
+Die Verschlüsselung erfolgt in Echtzeit innerhalb der App, und das Gespräch wird dabei nicht aufgezeichnet. Die Betreiber der Simlar-App und Dritte haben keine Möglichkeit, die Gespräche der App-User zu entschlüsseln oder den Inhalt zu verfolgen. Einzig der Anrufer und der Angerufene können das Gespräch entschlüsselt tätigen.
+Daten, die zum Gesprächsaufbau benötigt werden, werden verschlüsselt an die Simlar-Server übertragen. Aus technischen Gründen (z.B. zur Fehleranalyse) könnten diese auch auf den Servern gespeichert werden.
+
+2. Verknüpfung der Telefonnummer
+Für die volle Funktionalität der App wird die Telefonnummer des Nutzers benötigt. Die zugeordnete Simlar-ID wird mit der Telefonnummer verknüpft.
+Ohne eine Verknüpfung ist die Nutzung der Simlar-App technisch nicht möglich, da sie für den Registrierungsablauf benötigt wird.
+Die Telefonnummer, die für die Verknüpfung verwendet wurde, wird nur zum Zweck der Kontaktlistensynchronisation und der Funktionalität der App gespeichert und wird keinesfalls an Dritte weitergegeben. Sie wird auch nicht zweckentfremdet oder für Werbemaßnahmen verwendet.
+Wir gewähren die uns bestmögliche Verschlüsselungsstufe.
+
+3. Datenzugriff der App
+Folgende Daten werden für die Funktionalität der App benötigt:
+
+a) SMS-Zugriff:
+Der Zugriff auf Ihre SMS geschieht nur einmalig bei der Registrierung. Sie erhalten nach der Installation eine SMS, die die Echtheit der Telefonnummer überprüft und die App mit der Telefonnummer, an die die SMS gesendet wurde verknüpft.
+
+b) Kontaktliste:
+Aus der Kontaktliste werden nur die Telefonnummern ohne die Namen der Kontakte abgeglichen. Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App registriert ist. Dies soll die Nutzung der App für den Nutzer so einfach wie möglich gestalten und eine problemlose Kontaktaufnahme mit einem anderen Simlar-Nutzer ermöglichen.
+
+c) Versionsnummer:
+Auch werden der Versionsname und die Versionsnummer der App an unsere Server übermittelt. Dadurch soll gewährleistet werden, dass wir bei Problemen individuell die Fehlerbehebung optimieren können.
+
+d) Google-Push-Notifikation-ID:
+Die Google-Push-Notifikation-ID wird benötigt, damit Sie die Simlar-Message-Push-Benachrichtigung auch erhalten, wenn Sie angerufen werden und die App nicht immer gesondert aktiviert werden muss. Dies spart Energie und Speicherplatz auf Ihrem Smartphone.
+
+4. Mitwirkungsklausel und Absturzbenachrichtigung
+Bei Abstürzen oder Programmfehlern gibt es die Möglichkeit innerhalb der App freiwillig und ausdrücklich einer Übermittlung in Form einer Absturzbenachrichtigung zuzustimmen. Es können dabei, neben dem Grund des Systemfehlers, auch persönliche Daten übermittelt werden (aktueller Zustand der App zum Zeitpunkt des Absturzes und die letzten Log-Meldungen).
+Die Übermittlung erfolgt direkt verschlüsselt auf die Simlar-Server. Durch diese freiwillige Unterstützung können Sie uns helfen, die App weiter zu entwickeln, indem Sie uns die Gelegenheit zur Auswertung der Fehler geben.
+
+5. Allgemeine Vorschriften
+Im Übrigen gelten die Bestimmungen des deutschen Datenschutzgesetzes (BDSG) und die gängigen Verordnungen und Regelungen der Bundesrepublik Deutschland – http://dejure.org/gesetze/BDSG
+Weitere Fragen oder Anregungen?
+
+Diese Datenschutzerklärung soll die wichtigsten Punkte darüber, wie wir den Datenschutz gewährleisten, erläutern. Falls Sie diesbezüglich Fragen haben, wenden Sie sich bitte an: support@simlar.org.
+Wir sind stets bemüht unsere Arbeit transparent und effizient zu gestalten und sind für Vorschläge sowie Verbesserungswünsche immer offen.
