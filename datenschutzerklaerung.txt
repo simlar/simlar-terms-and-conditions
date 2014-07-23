@@ -1,4 +1,4 @@
-Simlar steht für den bestmöglichen Schutz Ihrer Kommunikation. Das gilt natürlich ebenfalls für den Schutz Ihrer Daten. Es werden nur die notwendigsten Informationen für die volle Funktionalität der App gespeichert. Dies geschieht auch nur für die Dauer der Brauchbarkeit der funktionsabhängigen Informationen. Die Kommunikation mit den Simlar-Servern läuft grundsätzlich verschlüsselt und ist daher vor unbefugten Zugriffen geschützt
+Simlar steht für den bestmöglichen Schutz Ihrer Kommunikation. Das gilt natürlich ebenfalls für den Schutz Ihrer Daten. Es werden nur die notwendigsten Informationen für die volle Funktionalität der App gespeichert. Dies geschieht auch nur für die Dauer der Brauchbarkeit der funktionsabhängigen Informationen. Die Kommunikation mit den Simlar-Servern läuft grundsätzlich verschlüsselt und ist daher vor unbefugten Zugriffen geschützt.
 In dieser Datenschutzerklärung sind die Punkte zu Ihren Informationen zusammengefasst.
 
 1. Ihre verschlüsselten Gespräche
@@ -22,14 +22,14 @@ b) Kontaktliste:
 Aus der Kontaktliste werden nur die Telefonnummern ohne die Namen der Kontakte abgeglichen. Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App registriert ist. Dies soll die Nutzung der App für den Nutzer so einfach wie möglich gestalten und eine problemlose Kontaktaufnahme mit einem anderen Simlar-Nutzer ermöglichen.
 
 c) Versionsnummer:
-Auch werden der Versionsname und die Versionsnummer der App an unsere Server übermittelt. Dadurch soll gewährleistet werden, dass wir bei Problemen individuell die Fehlerbehebung optimieren können.
+Auch der Versionsname und die Versionsnummer der App werden an unsere Server übermittelt. Dadurch soll gewährleistet werden, dass wir bei Problemen individuell die Fehlerbehebung optimieren können.
 
 d) Google-Push-Notifikation-ID:
 Die Google-Push-Notifikation-ID wird benötigt, damit Sie die Simlar-Message-Push-Benachrichtigung auch erhalten, wenn Sie angerufen werden und die App nicht immer gesondert aktiviert werden muss. Dies spart Energie und Speicherplatz auf Ihrem Smartphone.
 
 4. Mitwirkungsklausel und Absturzbenachrichtigung
 Bei Abstürzen oder Programmfehlern gibt es die Möglichkeit innerhalb der App freiwillig und ausdrücklich einer Übermittlung in Form einer Absturzbenachrichtigung zuzustimmen. Es können dabei, neben dem Grund des Systemfehlers, auch persönliche Daten übermittelt werden (aktueller Zustand der App zum Zeitpunkt des Absturzes und die letzten Log-Meldungen).
-Die Übermittlung erfolgt direkt verschlüsselt auf die Simlar-Server. Durch diese freiwillige Unterstützung können Sie uns helfen, die App weiter zu entwickeln, indem Sie uns die Gelegenheit zur Auswertung der Fehler geben.
+Die Übermittlung erfolgt direkt und verschlüsselt auf die Simlar-Server. Durch diese freiwillige Unterstützung können Sie uns helfen, die App weiter zu entwickeln, indem Sie uns die Gelegenheit zur Auswertung der Fehler geben.
 
 5. Allgemeine Vorschriften
 Im Übrigen gelten die Bestimmungen des deutschen Datenschutzgesetzes (BDSG) und die gängigen Verordnungen und Regelungen der Bundesrepublik Deutschland – http://dejure.org/gesetze/BDSG
