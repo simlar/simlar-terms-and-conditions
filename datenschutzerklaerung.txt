@@ -16,7 +16,7 @@ Wir gewähren die uns bestmögliche Verschlüsselungsstufe.
 Folgende Daten werden für die Funktionalität der App benötigt:
 
 a) SMS-Zugriff:
-Der Zugriff auf Ihre SMS geschieht nur einmalig bei der Registrierung. Sie erhalten nach der Installation eine SMS, die die Echtheit der Telefonnummer überprüft und die App mit der Telefonnummer, an die die SMS gesendet wurde verknüpft.
+Der Zugriff auf Ihre SMS geschieht nur einmalig bei der Registrierung und ausschliesslich auf den Inhalt der von uns an Sie gesendeten SMS zur Überprüfung der Echtheit ihrer Telefonnummer. Ansonsten erfolgt kein Zugriff auf ihre Daten bzw. Inhalte von SMS und iMessage.
 
 b) Kontaktliste:
 Aus der Kontaktliste werden nur die Telefonnummern ohne die Namen der Kontakte abgeglichen. Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App registriert ist. Dies soll die Nutzung der App für den Nutzer so einfach wie möglich gestalten und eine problemlose Kontaktaufnahme mit einem anderen Simlar-Nutzer ermöglichen.
