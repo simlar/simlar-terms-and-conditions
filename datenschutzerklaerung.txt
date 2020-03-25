@@ -14,18 +14,15 @@ Die Telefonnummer, die für die Verknüpfung verwendet wurde, wird nur zum Zweck
 3. Datenzugriff der App
 Folgende Daten werden für die Funktionalität der App benötigt:
 
-a) SMS-Zugriff:
-Nur die Android App kann auf Ihre SMS zugreifen und auch nur, wenn Sie Ihr die Berechtigung dazu explizit gewähren. Der Zugriff auf Ihre SMS geschieht einmalig bei der Registrierung. Sie erhalten nach der Installation eine SMS, die die Echtheit der Telefonnummer überprüft und die App mit der Telefonnummer, an die die SMS gesendet wurde verknüpft.
-
-b) Kontaktliste:
+a) Kontaktliste:
 Wenn Sie der Simlar-App den Zugriff auf Ihre Kontaktliste gewähren, werden aus dieser nur die Telefonnummern der Kontakte abgeglichen. Namen und weitere Daten werden nicht abgeglichen.
 Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App registriert ist. Dies soll die Nutzung der App für den Nutzer so einfach wie möglich gestalten und eine problemlose Kontaktaufnahme mit einem anderen Simlar-Nutzer ermöglichen.
 Simlar speichert die Telefonnummern Ihrer Kontakte nicht auf dem Server.
 
-c) Versionsnummer:
+b) Versionsnummer:
 Auch der Versionsname und die Versionsnummer der App werden an unsere Server übermittelt. Dadurch soll gewährleistet werden, dass wir bei Problemen individuell die Fehlerbehebung optimieren können.
 
-d) Push-Notification-Id:
+c) Push-Notification-Id:
 Die Push-Notification-Id wird benötigt, damit der Simlar-Server die App benachrichtigen kann, wenn Sie angerufen werden. Das spart Energie auf Ihrem Smartphone.
 Unter Android kann die App alternativ auch mit einer dauerhaften Verbindung zum Simlar-Server betrieben werden. Dann werden keine Daten an Google übermittelt.
 
