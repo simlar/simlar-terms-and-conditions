@@ -8,32 +8,44 @@ Daten, die zum Gesprächsaufbau benötigt werden, werden verschlüsselt an die S
 
 2. Verknüpfung der Telefonnummer
 Für die volle Funktionalität der App wird die Telefonnummer des Nutzers benötigt. Die zugeordnete Simlar-ID wird mit der Telefonnummer verknüpft.
-Ohne eine Verknüpfung ist die Nutzung der Simlar-App technisch nicht möglich, da sie für den Registrierungsablauf benötigt wird.
-Die Telefonnummer, die für die Verknüpfung verwendet wurde, wird nur zum Zweck der Kontaktlistensynchronisation und der Funktionalität der App gespeichert und wird keinesfalls an Dritte weitergegeben. Sie wird auch nicht zweckentfremdet oder für Werbemaßnahmen verwendet.
+Ohne eine Verknüpfung ist die Nutzung der Simlar-App technisch nicht möglich, weil sie zum Finden von bekannten Kontakten benötigt wird.
+Die Telefonnummer, die für die Verknüpfung verwendet wurde, wird nur zum Zweck der Kontaktlistensynchronisation und der Funktionalität der App gespeichert. Sie wird auch nicht zweckentfremdet oder für Werbemaßnahmen verwendet.
 Wir gewähren die uns bestmögliche Verschlüsselungsstufe.
 
 3. Datenzugriff der App
 Folgende Daten werden für die Funktionalität der App benötigt:
 
 a) SMS-Zugriff:
-Der Zugriff auf Ihre SMS geschieht nur einmalig bei der Registrierung und ausschliesslich auf den Inhalt der von uns an Sie gesendeten SMS zur Überprüfung der Echtheit ihrer Telefonnummer. Ansonsten erfolgt kein Zugriff auf ihre Daten bzw. Inhalte von SMS und iMessage.
+Nur die Android App kann auf Ihre SMS zugreifen und auch nur, wenn Sie Ihr die Berechtigung dazu explizit gewähren. Der Zugriff auf Ihre SMS geschieht einmalig bei der Registrierung. Sie erhalten nach der Installation eine SMS, die die Echtheit der Telefonnummer überprüft und die App mit der Telefonnummer, an die die SMS gesendet wurde verknüpft.
 
 b) Kontaktliste:
-Aus der Kontaktliste werden nur die Telefonnummern ohne die Namen der Kontakte abgeglichen. Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App registriert ist. Dies soll die Nutzung der App für den Nutzer so einfach wie möglich gestalten und eine problemlose Kontaktaufnahme mit einem anderen Simlar-Nutzer ermöglichen.
+Wenn Sie der Simlar-App den Zugriff auf Ihre Kontaktliste gewähren, werden aus dieser nur die Telefonnummern der Kontakte abgeglichen. Namen und weitere Daten werden nicht abgeglichen.
+Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App registriert ist. Dies soll die Nutzung der App für den Nutzer so einfach wie möglich gestalten und eine problemlose Kontaktaufnahme mit einem anderen Simlar-Nutzer ermöglichen.
+Simlar speichert die Telefonnummern Ihrer Kontakte nicht auf dem Server.
 
 c) Versionsnummer:
 Auch der Versionsname und die Versionsnummer der App werden an unsere Server übermittelt. Dadurch soll gewährleistet werden, dass wir bei Problemen individuell die Fehlerbehebung optimieren können.
 
-d) Google-Push-Notifikation-ID:
-Die Google-Push-Notifikation-ID wird benötigt, damit Sie die Simlar-Message-Push-Benachrichtigung auch erhalten, wenn Sie angerufen werden und die App nicht immer gesondert aktiviert werden muss. Dies spart Energie und Speicherplatz auf Ihrem Smartphone.
+d) Push-Notification-Id:
+Die Push-Notification-Id wird benötigt, damit der Simlar-Server die App benachrichtigen kann, wenn Sie angerufen werden. Das spart Energie auf Ihrem Smartphone.
+Unter Android kann die App alternativ auch mit einer dauerhaften Verbindung zum Simlar-Server betrieben werden. Dann werden keine Daten an Google übermittelt.
 
-4. Mitwirkungsklausel und Absturzbenachrichtigung
+4. Dritte
+Dienste Dritter (Apple, Google und Twilio) werden ausschließlich zum Versand von Push-Notifications und SMS-Nachrichten verwendet. Dabei gelten deren Datenschutzrichtlinien.
+Eine Weitergabe der Daten an Dritte geschieht ausschließlich, um die Funktionalität der App zu gewährleisten, und niemals zu anderen Zwecken (z.B. Werbung).
+
+5. Logdaten
+Logdaten werden maximal 14 Tage lang auf dem Server gespeichert, und dies nur um die Fehlersuche zu erleichtern, den Service zu optimieren und Missbrauch zu verhindern.
+
+6. Mitwirkungsklausel und Absturzbenachrichtigung
 Bei Abstürzen oder Programmfehlern gibt es die Möglichkeit innerhalb der App freiwillig und ausdrücklich einer Übermittlung in Form einer Absturzbenachrichtigung zuzustimmen. Es können dabei, neben dem Grund des Systemfehlers, auch persönliche Daten übermittelt werden (aktueller Zustand der App zum Zeitpunkt des Absturzes und die letzten Log-Meldungen).
 Die Übermittlung erfolgt verschlüsselt auf die Simlar-Server. Durch diese freiwillige Unterstützung können Sie uns helfen, die App weiter zu entwickeln, indem Sie uns die Gelegenheit zur Auswertung der Fehler geben.
 
-5. Allgemeine Vorschriften
+7. Allgemeine Vorschriften
 Im Übrigen gelten die Bestimmungen des deutschen Datenschutzgesetzes (BDSG) und die gängigen Verordnungen und Regelungen der Bundesrepublik Deutschland – http://dejure.org/gesetze/BDSG
+
 Weitere Fragen oder Anregungen?
 
-Diese Datenschutzerklärung soll die wichtigsten Punkte darüber, wie wir den Datenschutz gewährleisten, erläutern. Falls Sie diesbezüglich Fragen haben, wenden Sie sich bitte an: support@simlar.org.
-Wir sind stets bemüht unsere Arbeit transparent und effizient zu gestalten und sind für Vorschläge sowie Verbesserungswünsche immer offen.
+8. Datenschutzbeauftragter
+Diese Datenschutzerklärung soll die wichtigsten Punkte darüber, wie wir den Datenschutz gewährleisten, erläutern. Falls Sie diesbezüglich Fragen haben, wenden Sie sich bitte an das Simlar-Team oder direkt an Ben Sartor: support@simlar.org.
+Wir sind stets bemüht, unsere Arbeit transparent und effizient zu gestalten, und sind für Vorschläge sowie Verbesserungswünsche immer offen.
