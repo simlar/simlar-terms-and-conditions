@@ -1,0 +1,50 @@
+1. general information
+The mobile phone application, which can be downloaded from the Internet at the URL www.simlar.org, and the mobile phone application, which can be downloaded from the respective third-party stores (hereinafter: "Simlar App"), are operated voluntarily by the Simlar team (hereinafter: Simlar) and do not involve any monetary considerations. If you purchase via third-party platforms, their guidelines and regulations also apply.
+Simlar provides its users with an app for encrypted communication. Simlar does not act as a trader itself, but the Simlar app is made available free of charge. The product information provided does not constitute a legally binding offer by Simlar.
+In particular, no sales contract is concluded with Simlar beyond the download of the products or services presented on the websites.
+Before downloading, users are obliged to check all information relevant for downloading and use and that it is up-to-date.
+Names, logos and/or product designations mentioned on the websites may be protected. The product information serves only for information purposes and the private and business use of the users. Simlar does not set any hurdles with regard to the use of the app by private and business persons as long as applicable law is observed.
+Simlar offers services and benefits relating to offers on mobile devices via the homepage and the App (hereinafter "offer"). The use of the offer and the utilisation of the services offered there are subject to these Terms of Use. These Terms of Use apply to all present and future relations between the user and Simlar. By using the services offered, the user accepts the validity of these Terms of Use. Deviating, supplementary or conflicting terms and conditions of the user shall not become part of the contract unless Simlar expressly agrees to them in writing. Amendments to the Terms of Use will be published regularly at this point.
+
+2. general terms of use
+The user undertakes towards Simlar to use the offer lawfully and only for purposes that do not violate these terms of use, applicable German law or the rights of third parties.
+In principle, every user of the Simlar App is obliged to check that the Terms of Use are up to date. However, Simlar attaches great importance to transparency.
+Simlar reserves the right to incorporate a service-oriented software feature in the future to inform users of changes to the Terms of Use in the form of a push notification or other technical means that the App makes possible. This feature will also be used to publish news concerning the Simlar App to all users as well. If the user allows another person to use the Simlar App on his mobile device, it is the user's duty of care to point out the Terms of Use and to monitor compliance with them appropriately. If the user or a third party who uses the Simlar App on the user's mobile phone culpably violates these Terms of Use or applicable criminal or public law, Simlar (x: see above) may take necessary measures and block access.
+
+3. use of personal data and rights of use
+Simlar stores and uses data exclusively for the purpose of the functionality of the offer. Which data is required for functionality can be found in the data protection regulations of Simlar.
+When the app is installed for the first time, only the user's telephone number is linked to the app. If the user provides personal data for extended services which are useful for the functionality of the App, the user grants Simlar the non-exclusive right, unlimited in time and place, to use this data, as well as to archive and include it in databases (online, access and transmission rights).
+However, Simlar guarantees that the data will be used exclusively for the functionality of the App. Simlar will not process any personal data of the user for other purposes and will not make it available for advertising measures or for third parties.
+
+4. costs
+Simlar offers its app to end users free of charge.
+In connection with the use of the app, costs may be incurred through data transfer with the network operator. These costs must be borne by the user himself.
+
+5. warranty
+Although Simlar endeavours to ensure that its own systems, programs, etc., are always technically smooth and trouble-free, Simlar cannot guarantee this.
+In this respect, Simlar reserves the right to use a freely determinable period of time to rectify technical problems. In particular, Simlar does not assume any warranty for the functional capability and compatibility of systems, programs etc. which do not directly belong to the online offer of Simlar and on which Simlar has no influence in this respect.
+
+6 Damages and liability
+Simlar shall be liable on the merits only for damages of the user which Simlar or its legal representatives or executive vicarious agents have caused intentionally or by gross negligence.
+This limitation of liability shall not affect liability in accordance with mandatory statutory regulations.
+Damages of a material or non-material nature caused by non-fulfilment of the contents/functions offered by the Simlar website or app or incorrect or incomplete information are excluded.
+All offers made available by Simlar are subject to change and non-binding.
+The App user shall bear the duty of care in connection with the use of the App.
+
+7. responsibility/links
+Simlar expressly dissociates itself from all contents of pages to which links lead through pages operated or hosted by Simlar. Simlar emphasises that it has no influence whatsoever on the design and contents of the linked pages and their sub-pages.
+
+8. copyright and licensing
+All data, information, search results and texts of the platforms operated by Simlar enjoy copyright protection according to the Copyright Act.
+The Simlar app is licensed under the "GPLv2 and any later version". Further information about the license can be found at: http://www.gnu.de/documents/gpl-2.0.de.html
+
+9. amendment of the terms of use
+Simlar reserves the right to change the terms of use and services in accordance with the following provisions, provided that the changes are reasonable for the user taking into account the interests of Simlar. This is particularly the case if the changes are essentially not associated with any disadvantages for the user, e.g. in the case of changes to contact information, the inclusion of additional services or similar.
+
+There is no express reference to the change in the declaration of use. The declaration of use is to be checked independently and periodically for changes.
+
+10. final provisions, place of jurisdiction and applicable law
+These terms of use and the entire legal relationship between the end users and Simlar are subject to German law, excluding the UN Convention on Contracts for the International Sale of Goods.
+Exclusive place of jurisdiction for all disputes as well as place of performance for all services of the contractual partners is, as far as legally permissible, Cologne/Germany.
+The laws and the law of the Federal Republic of Germany shall apply exclusively between the parties.
+Should one or more provisions of these terms of use be invalid, this shall not result in the invalidity of the entire terms of use. The invalid provision shall be replaced by the relevant legal provision.
