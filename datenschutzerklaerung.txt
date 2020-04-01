@@ -20,7 +20,7 @@ Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App 
 Simlar speichert die Telefonnummern Ihrer Kontakte nicht auf dem Server.
 
 b) Versionsnummer
-Die App übermittelt ihren Versionsnamen und die Versionsnummer an die Server, um eventuelle Probleme besser nachvollziehen zu können.
+Die App übermittelt ihren Versionsnamen und die Versionsnummer an den Simlar-Server, um eventuelle Probleme besser nachvollziehen zu können.
 
 c) Push-Notification-Id (optional)
 Die Push-Notification-Id wird benötigt, um die App z.B. über einen eingehenden Anruf zu benachrichtigen. Hierzu übermittelt der Simlar-Server diese an den jeweiligen Push-Provider. Das spart Energie auf Ihrem Smartphone.
