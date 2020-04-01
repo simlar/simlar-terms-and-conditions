@@ -1,15 +1,15 @@
-Simlar stands for the best possible protection of your communication. Of course, this also applies to protect your data. Only the most necessary information for the full functionality of the app is stored. This is also only done for the required duration. The communication with the Simlar servers is always encrypted and therefore protected against unauthorized access.
+Simlar stands for the best possible protection of your communication. Of course, this also applies to protecting your data. Only the most necessary information for the full functionality of the app is stored. This is also only done for the required duration. The communication with the Simlar servers is always encrypted and therefore protected against unauthorized access.
 This privacy policy summarizes the points concerning your information.
 
 1. Your encrypted calls
 Simlar guarantees the best possible encryption of voice and video calls with the app. This is a tap-proof and encrypted system according to the current technical standard and to our knowledge.
-Simlar uses end to end encryption. Even the Simlar servers do not have access to call content. The operators of the Simlar app have no possibility to decrypt the conversations of the app users or to track the content. Only the caller and the callee can decrypt the call.
+Simlar uses end to end encryption. Even the Simlar servers do not have access to a call's content. The operators of the Simlar app have no possibility to decrypt the conversations of the app users or to track the content. Only the caller and the callee can decrypt the call.
 Data required for setting up the call is transmitted encrypted to the Simlar servers. For technical reasons (e.g. for error analysis) this data could also be temporarily stored on the servers.
 
 2. Your telephone number
 For the full functionality of the app the user's phone number is required. The assigned Simlar ID is linked to the telephone number.
 This is needed to find known contacts.
-The telephone number used for the link is only stored for the purpose of contact list synchronization and the functionality of the app. It is also not misused or used for advertising purposes.
+The telephone number used for the link is only stored for the purpose of contact list synchronization and the functionality of the app. It is also not used for advertising or any other purpose.
 
 3. Data access of the app
 The following data is required for the functionality of the app:
