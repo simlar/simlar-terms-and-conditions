@@ -3,7 +3,7 @@ In dieser Datenschutzerklärung sind die Punkte zu Ihren Informationen zusammeng
 
 1. Ihre verschlüsselten Gespräche
 Simlar gewährleistet die bestmögliche Verschlüsselung des gesprochenen Wortes (Sprachanrufe) über die Simlar-App. Diese ist nach dem aktuellen technischen Standard und nach unserem Kenntnisstand ein abhörsicheres und verschlüsseltes System.
-Die Verschlüsselung erfolgt von Endgerät zu Enderät (Ende-zu-Ende). Selbst die Simlar Server haben keinen Zugriff auf Gesprächihhalte. Die Betreiber der Simlar-App haben keine Möglichkeit, die Gespräche der App-User zu entschlüsseln oder den Inhalt zu verfolgen. Einzig der Anrufer und der Angerufene können das Gespräch entschlüsselt tätigen.
+Die Verschlüsselung erfolgt von Endgerät zu Endgerät (Ende-zu-Ende). Selbst die Simlar-Server haben keinen Zugriff auf Gesprächsinhalte. Die Betreiber der Simlar-App haben keine Möglichkeit, die Gespräche der App-User zu entschlüsseln oder den Inhalt zu verfolgen. Einzig der Anrufer und der Angerufene können das Gespräch entschlüsselt tätigen.
 Daten, die zum Gesprächsaufbau benötigt werden, werden verschlüsselt an die Simlar-Server übertragen. Aus technischen Gründen (z.B. zur Fehleranalyse) können diese vorübergehend auf den Servern gespeichert werden.
 
 2. Ihre Telefonnummer
