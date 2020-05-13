@@ -1,33 +1,29 @@
-Simlar steht für den bestmöglichen Schutz Ihrer Kommunikation. Das gilt natürlich ebenfalls für den Schutz Ihrer Daten. Es werden nur die notwendigsten Informationen für die volle Funktionalität der App gespeichert. Dies geschieht auch nur für die Dauer der Brauchbarkeit der funktionsabhängigen Informationen. Die Kommunikation mit den Simlar-Servern läuft grundsätzlich verschlüsselt und ist daher vor unbefugten Zugriffen geschützt.
+Simlar steht für den bestmöglichen Schutz Ihrer Kommunikation. Das gilt natürlich ebenfalls für den Schutz Ihrer Daten. Es werden nur die notwendigsten Informationen für die volle Funktionalität der App gespeichert. Dies geschieht auch nur für die Dauer der Verwendung der funktionsabhängigen Informationen. Die Kommunikation mit den Simlar-Servern läuft grundsätzlich verschlüsselt und ist daher vor unbefugten Zugriffen geschützt.
 In dieser Datenschutzerklärung sind die Punkte zu Ihren Informationen zusammengefasst.
 
 1. Ihre verschlüsselten Gespräche
 Simlar gewährleistet die bestmögliche Verschlüsselung des gesprochenen Wortes (Sprachanrufe) über die Simlar-App. Diese ist nach dem aktuellen technischen Standard und nach unserem Kenntnisstand ein abhörsicheres und verschlüsseltes System.
-Die Verschlüsselung erfolgt in Echtzeit innerhalb der App, und das Gespräch wird dabei nicht aufgezeichnet. Die Betreiber der Simlar-App und Dritte haben keine Möglichkeit, die Gespräche der App-User zu entschlüsseln oder den Inhalt zu verfolgen. Einzig der Anrufer und der Angerufene können das Gespräch entschlüsselt tätigen.
-Daten, die zum Gesprächsaufbau benötigt werden, werden verschlüsselt an die Simlar-Server übertragen. Aus technischen Gründen (z.B. zur Fehleranalyse) könnten diese auch auf den Servern gespeichert werden.
+Die Verschlüsselung erfolgt von Endgerät zu Endgerät (Ende-zu-Ende). Selbst die Simlar-Server haben keinen Zugriff auf Gesprächsinhalte. Die Betreiber der Simlar-App haben keine Möglichkeit, die Gespräche der App-User zu entschlüsseln oder den Inhalt zu verfolgen. Einzig der Anrufer und der Angerufene können das Gespräch entschlüsselt tätigen.
+Daten, die zum Gesprächsaufbau benötigt werden, werden verschlüsselt an die Simlar-Server übertragen. Aus technischen Gründen (z.B. zur Fehleranalyse) können diese vorübergehend auf den Servern gespeichert werden.
 
-2. Verknüpfung der Telefonnummer
+2. Ihre Telefonnummer
 Für die volle Funktionalität der App wird die Telefonnummer des Nutzers benötigt. Die zugeordnete Simlar-ID wird mit der Telefonnummer verknüpft.
 Ohne eine Verknüpfung ist die Nutzung der Simlar-App technisch nicht möglich, weil sie zum Finden von bekannten Kontakten benötigt wird.
 Die Telefonnummer, die für die Verknüpfung verwendet wurde, wird nur zum Zweck der Kontaktlistensynchronisation und der Funktionalität der App gespeichert. Sie wird auch nicht zweckentfremdet oder für Werbemaßnahmen verwendet.
-Wir gewähren die uns bestmögliche Verschlüsselungsstufe.
 
 3. Datenzugriff der App
 Folgende Daten werden für die Funktionalität der App benötigt:
 
-a) SMS-Zugriff:
-Nur die Android App kann auf Ihre SMS zugreifen und auch nur, wenn Sie Ihr die Berechtigung dazu explizit gewähren. Der Zugriff auf Ihre SMS geschieht einmalig bei der Registrierung. Sie erhalten nach der Installation eine SMS, die die Echtheit der Telefonnummer überprüft und die App mit der Telefonnummer, an die die SMS gesendet wurde verknüpft.
-
-b) Kontaktliste:
+a) Kontaktliste (optional)
 Wenn Sie der Simlar-App den Zugriff auf Ihre Kontaktliste gewähren, werden aus dieser nur die Telefonnummern der Kontakte abgeglichen. Namen und weitere Daten werden nicht abgeglichen.
 Die App erkennt dadurch, wer in Ihrer Kontaktliste ebenfalls bei der Simlar-App registriert ist. Dies soll die Nutzung der App für den Nutzer so einfach wie möglich gestalten und eine problemlose Kontaktaufnahme mit einem anderen Simlar-Nutzer ermöglichen.
 Simlar speichert die Telefonnummern Ihrer Kontakte nicht auf dem Server.
 
-c) Versionsnummer:
-Auch der Versionsname und die Versionsnummer der App werden an unsere Server übermittelt. Dadurch soll gewährleistet werden, dass wir bei Problemen individuell die Fehlerbehebung optimieren können.
+b) Versionsnummer
+Die App übermittelt ihren Versionsnamen und die Versionsnummer an den Simlar-Server, um eventuelle Probleme besser nachvollziehen zu können.
 
-d) Push-Notification-Id:
-Die Push-Notification-Id wird benötigt, damit der Simlar-Server die App benachrichtigen kann, wenn Sie angerufen werden. Das spart Energie auf Ihrem Smartphone.
+c) Push-Notification-Id (optional)
+Die Push-Notification-Id wird benötigt, um die App z.B. über einen eingehenden Anruf zu benachrichtigen. Hierzu übermittelt der Simlar-Server diese an den jeweiligen Push-Provider. Das spart Energie auf Ihrem Smartphone.
 Unter Android kann die App alternativ auch mit einer dauerhaften Verbindung zum Simlar-Server betrieben werden. Dann werden keine Daten an Google übermittelt.
 
 4. Dritte
@@ -47,5 +43,5 @@ Im Übrigen gelten die Bestimmungen des deutschen Datenschutzgesetzes (BDSG) und
 Weitere Fragen oder Anregungen?
 
 8. Datenschutzbeauftragter
-Diese Datenschutzerklärung soll die wichtigsten Punkte darüber, wie wir den Datenschutz gewährleisten, erläutern. Falls Sie diesbezüglich Fragen haben, wenden Sie sich bitte an das Simlar-Team oder direkt an Ben Sartor: support@simlar.org.
+Diese Datenschutzerklärung erläutert die wichtigsten Punkte darüber, wie wir den Datenschutz gewährleisten. Falls Sie diesbezüglich Fragen haben, wenden Sie sich bitte an das Simlar-Team oder direkt an Ben Sartor: support@simlar.org
 Wir sind stets bemüht, unsere Arbeit transparent und effizient zu gestalten, und sind für Vorschläge sowie Verbesserungswünsche immer offen.
